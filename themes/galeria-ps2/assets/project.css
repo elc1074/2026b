@@ -16,3 +16,8 @@ html{scroll-behavior:smooth;scroll-padding-top:32px}.project-detail{background:v
 .detail-index>.sidebar-engraving{left:calc(-1 * var(--detail-gutter));right:auto;bottom:-28px;transform:none;width:calc(100% + var(--detail-gutter) + 12px);max-width:none;opacity:.24;mix-blend-mode:multiply}
 @media(max-width:1100px){.detail-index{--detail-gutter:28px}}
 @media(max-width:700px){.detail-index{padding-bottom:0;clip-path:none}.detail-index>.sidebar-engraving{display:none}}
+
+.project-video{margin:0 0 24px}
+.project-video:last-child{margin-bottom:0}
+@media(max-width:700px){.team-grid{grid-template-columns:1fr}}
+.detail-capture{display:block;max-width:100%;height:auto;border:1px solid var(--line);border-radius:8px}

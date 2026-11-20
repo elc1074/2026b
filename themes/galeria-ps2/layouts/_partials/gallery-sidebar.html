@@ -3,15 +3,15 @@
   <div class="intro-inner">
     <div class="intro-main">
       <div class="intro-edition">
-        <p class="eyebrow">Mostra semestral</p>
+        <p class="eyebrow"><span aria-hidden="true">🇧🇷 🇨🇱</span> COIL Brasil–Chile</p>
         {{ with $home.Params.semestre }}<span class="intro-edition-year" aria-label="Semestre {{ . }}">{{ . }}</span>{{ end }}
       </div>
-      {{ if .IsHome }}<h1>{{ $home.Title }}</h1>{{ else }}<p class="intro-title">{{ $home.Title }}</p>{{ end }}
-      {{ with $home.Params.descricao }}<p class="intro-description">{{ . }}</p>{{ end }}
+      {{ if .IsHome }}<h1>{{ $home.Title }}{{ with $home.Params.title_es }}<span class="bilingual-heading" lang="es-CL">{{ . }}</span>{{ end }}</h1>{{ else }}<p class="intro-title">{{ $home.Title }}</p>{{ end }}
+      {{ partial "bilingual-block.html" (dict "pt" $home.Params.descricao "es" $home.Params.descricao_es "class" "intro-description") }}
     </div>
     {{ with $home.Params.apresentacoes }}
     <section class="schedule" aria-labelledby="schedule-title">
-      <h2 class="small-label" id="schedule-title">Apresentações:</h2>
+      <h2 class="small-label" id="schedule-title">{{ partial "bilingual-label.html" (dict "pt" "Apresentações" "es" "Presentaciones") }}</h2>
       <div class="schedule-list">
         {{ range $index, $item := . }}
         <div class="schedule-item">
@@ -23,9 +23,9 @@
     </section>
     {{ end }}
     <nav class="intro-nav" aria-label="Navegação da galeria">
-      <a href="{{ $home.RelPermalink }}"{{ if .IsHome }} aria-current="page"{{ end }}>Galeria</a>
+      <a href="{{ $home.RelPermalink }}"{{ if .IsHome }} aria-current="page"{{ end }}>{{ partial "bilingual-label.html" (dict "pt" "Galeria" "es" "Galería") }}</a>
       {{ with site.GetPage "/sobre" }}
-      <a href="{{ .RelPermalink }}"{{ if eq .RelPermalink $.RelPermalink }} aria-current="page"{{ end }}>{{ .LinkTitle }}</a>
+      <a href="{{ .RelPermalink }}"{{ if eq .RelPermalink $.RelPermalink }} aria-current="page"{{ end }}>{{ partial "bilingual-label.html" (dict "pt" "Sobre" "es" "Acerca de") }}</a>
       {{ end }}
     </nav>
     {{ with $home.Params.instituicao }}

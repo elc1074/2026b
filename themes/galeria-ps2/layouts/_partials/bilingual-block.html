@@ -1,0 +1,8 @@
+<div class="bilingual-block{{ with .class }} {{ . }}{{ end }}">
+  {{ if .es }}
+  <div class="bilingual-text" lang="pt-BR"><span aria-hidden="true">🇧🇷</span><div>{{ .pt }}</div></div>
+  <div class="bilingual-text" lang="es-CL"><span aria-hidden="true">🇨🇱</span><div>{{ .es }}</div></div>
+  {{ else }}
+  <div lang="pt-BR">{{ .pt }}</div>
+  {{ end }}
+</div>

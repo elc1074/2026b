@@ -13,6 +13,12 @@ capa: ""
 video: ""
 # Imagem exibida antes do play. Se ficar vazia, será usada a capa do projeto.
 previa_video: ""
+# Para vários vídeos MP4 na galeria, use itens com titulo e arquivo.
+videos: []
+
+# Tema do desafio e equipes por instituição (nome e integrantes).
+tema: ""
+equipes: []
 
 # Preencha os links completos, começando com https://. Campos vazios não aparecem.
 apresentacao: ""

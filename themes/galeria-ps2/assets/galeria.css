@@ -218,3 +218,12 @@ body[data-theme="ivorysidebar"] .project-grid.masonry-ready{position:relative;di
 body[data-theme="ivorysidebar"] .project-grid.masonry-ready>.project{position:absolute;left:var(--masonry-left);top:var(--masonry-top);width:var(--masonry-width);min-width:0;margin:0}
 @media(max-width:1200px){body[data-theme="ivorysidebar"] .project-grid{--masonry-columns:2}}
 @media(max-width:480px){body[data-theme="ivorysidebar"] .project-grid{--masonry-columns:1}}
+
+.bilingual-block { display: grid; gap: .85rem; }
+.bilingual-block > div { min-width: 0; }
+.bilingual-text { display: grid; grid-template-columns: auto minmax(0, 1fr); gap: .45em; align-items: baseline; }
+.bilingual-heading { display: block; margin-top: .2em; font-size: .67em; }
+.bilingual-block.detail-description { white-space: normal; }
+@media (min-width: 900px) {
+  .bilingual-block.detail-description { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 1.5rem; }
+}

@@ -1,34 +1,18 @@
 ---
-title: "Sobre"
-layout: "sobre"
+title: Sobre
+layout: sobre
 ---
 
-# Collaborative Online International Learning (COIL)
+# Colaboração Brasil–Chile
 
-![Animação com as marcas da UFSM e do INACAP](pulse-icon-ufsm-inacap.gif)
+A edição 2026b reúne nove projetos desenvolvidos em uma colaboração COIL (*Collaborative Online International Learning*) entre a disciplina Projeto de Software II (ELC1074), da Universidade Federal de Santa Maria (UFSM), e estudantes de Anatomía de Animales de Compañía da Universidad Santo Tomás, no Chile.
 
----
+- **Avaliação oral com IA.** O desafio propôs usar materiais de estudo em PDF para gerar perguntas, receber respostas em áudio e oferecer avaliação e feedback.
+- **Identificação de estruturas anatômicas.** O desafio propôs explorar peças anatômicas em 360° e praticar a identificação de estruturas para avaliações práticas.
 
-🇧🇷 COIL é uma modalidade de ensino/aprendizagem online colaborativa entre professores e alunos em disciplinas curriculares com conteúdo comum.
+## Colaboración Brasil–Chile
 
-Os projetos de software nesta galeria foram desenvolvidos na modalidade COIL entre as disciplinas:
+La edición 2026b reúne nueve proyectos desarrollados en una colaboración COIL (*Collaborative Online International Learning*) entre la asignatura Projeto de Software II (ELC1074) de la Universidade Federal de Santa Maria (UFSM) y estudiantes de Anatomía de Animales de Compañía de la Universidad Santo Tomás, en Chile.
 
-- ELC1074 - Projeto de Software II, para os cursos de Ciência da Computação e Sistemas de Informação da Universidade Federal de Santa Maria (UFSM), Brasil, e
-- TIHI63 - Proyecto de Integración, para o curso de Ingenieria Informática do Instituto Nacional de Capacitación Profesional de Chile (INACAP), Chile.
-
-Cada projeto partiu da identificação de um problema e gerou uma solução de software, que foi desenvolvida em grupo binacional, usando tecnologias alinhadas com os objetivos. Todos os projetos passaram por testes com usuários/colegas do Brasil e do Chile.
-
-Os professores envolvidos foram: Andrea Schwertner Charão (UFSM), Jorge Luis Alejandro Cortés Gallardo (INACAP), Celio Trois (UFSM) e Mário Astudillo (UFSM-INACAP).
-
----
-
-🇨🇱 COIL es una modalidad de enseñanza/aprendizaje en línea colaborativa entre profesores y estudiantes en asignaturas curriculares con contenido común.
-
-Los proyectos de software en esta galería fueron desarrollados en la modalidad COIL entre las asignaturas:
-
-- ELC1074 - Proyecto de Software II, para las carreras de Sistemas de Información y Ciencia de la Computación de la Universidade Federal de Santa Maria (UFSM), Brasil, y
-- TIHI63 - Proyecto de Integración, para la carrera de del Instituto Nacional de Capacitación Profesional de Chile (INACAP), Chile.
-
-Cada proyecto comenzó con la identificación de un problema y generó una solución de software, desarrollada en grupo binacional utilizando tecnologías alineadas con los objetivos. Todos los proyectos fueron probados por usuarios/colegas de Brasil y Chile.
-
-Los responsables del COIL fueran: Andrea Schwertner Charão (UFSM), Jorge Luis Alejandro Cortés Gallardo (INACAP), Celio Trois (UFSM) y Mário Astudillo (UFSM-INACAP).
+- **Evaluación oral con IA.** El desafío planteó generar preguntas a partir de materiales de estudio en PDF, recibir respuestas en audio y entregar una evaluación con retroalimentación.
+- **Identificación de estructuras anatómicas.** El desafío planteó explorar piezas anatómicas en 360° y practicar la identificación de estructuras para evaluaciones prácticas.
