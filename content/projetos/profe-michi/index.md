@@ -34,11 +34,13 @@ equipes:
   - Daiane Dias Vieira
   - Giovana Borelli
   - Nathália de Almeida Zófoli
+  - Profa. Dra. Andrea Schwertner Charão
 - nome: Chile · Universidad Santo Tomás
   bandeira: 🇨🇱
   integrantes:
   - Ana Catalina Rojas Navarro
   - Catalina Belén Martinez González
+  - Profa. Dra. Flavia Montenegro Donoso
 capa: captura.jpg
 ---
 

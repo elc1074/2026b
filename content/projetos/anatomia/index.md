@@ -43,6 +43,7 @@ equipes:
   - Luís Gustavo Werle Tozevich
   - Mathias Eckert Recktenvald
   - Tobias Viero de Oliveira
+  - Profa. Dra. Andrea Schwertner Charão
 - nome: Chile · Universidad Santo Tomás
   bandeira: 🇨🇱
   integrantes:
@@ -51,6 +52,7 @@ equipes:
   - Valentina Arce
   - Renato Díaz
   - Mayte Barrera
+  - Profa. Dra. Flavia Montenegro Donoso
 ---
 
 O estudante envia um PDF, responde às perguntas por voz ou texto e pode revisar a transcrição antes de enviar. A plataforma atribui uma nota, fornece feedback por questão e guarda o histórico de sessões. A interface e as sessões podem ser configuradas em português, espanhol ou inglês.

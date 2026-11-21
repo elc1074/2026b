@@ -35,12 +35,14 @@ equipes:
   integrantes:
   - Nicholas Zortea Graczik
   - Ramon Studier Feiteiro
+  - Profa. Dra. Andrea Schwertner Charão
 - nome: Chile · Universidad Santo Tomás
   bandeira: 🇨🇱
   integrantes:
   - Benjamin Alonso Rivera Lazo
   - Catalina Soledad Cid Rojas
   - Sofía Helena Pereira Muñoz
+  - Profa. Dra. Flavia Montenegro Donoso
 ---
 
 Desenvolvido a partir do desafio de preparar estudantes para avaliações teóricas de anatomia, o AnatoTrivia tem uma interface web para atividades de estudo.

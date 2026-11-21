@@ -38,11 +38,13 @@ equipes:
   - Isadora Fenner Spohr
   - Leonardo Winch Dallanora
   - Luiza Manoelle dos Santos
+  - Profa. Dra. Andrea Schwertner Charão
 - nome: Chile · Universidad Santo Tomás
   bandeira: 🇨🇱
   integrantes:
   - Carla Carrasco
   - Leonor Raquel Dominika Mena Gonzalez
+  - Profa. Dra. Flavia Montenegro Donoso
 ---
 
 O projeto surgiu para ampliar as oportunidades de prática fora do laboratório. Seu recorte inicial é a osteologia de cães e gatos, com exploração de estruturas ósseas e atividades de identificação. O repositório documenta a execução para web e a distribuição como aplicativo desktop.

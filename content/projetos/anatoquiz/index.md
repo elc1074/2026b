@@ -34,12 +34,14 @@ equipes:
   - Diogo De Los Santos
   - Igor Cantarelli Arrivabene
   - Victor de Abreu Brum
+  - Prof. Dr. Celio Trois
 - nome: Chile · Universidad Santo Tomás
   bandeira: 🇨🇱
   integrantes:
   - Gabriela Riquelme Bannura
   - Martín Alonso Gallardo Martinez
   - Sara Ormeño
+  - Profa. Dra. Flavia Montenegro Donoso
 capa: capture.png
 ---
 

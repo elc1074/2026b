@@ -40,11 +40,13 @@ equipes:
   - Lucas Both Steinmetz Ribeiro
   - Lucas Xavier Pairé
   - Murilo Hesse Block
+  - Prof. Dr. Celio Trois
 - nome: Chile · Universidad Santo Tomás
   bandeira: 🇨🇱
   integrantes:
   - Barbara Acevedo
   - Kiara Cabrales Salazar
+  - Profa. Dra. Flavia Montenegro Donoso
 ---
 
 O estudante seleciona a dificuldade e a quantidade de perguntas e responde por voz ou texto. A aplicação transcreve o áudio, avalia as respostas, apresenta exemplos de resposta e mantém um histórico de sessões.

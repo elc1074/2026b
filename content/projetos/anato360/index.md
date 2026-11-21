@@ -37,12 +37,14 @@ equipes:
   - Filipe Sacchet Kaizer
   - Gabriel de Quadro Schutz da Silva
   - Weslley Henrique de Bitencourt Menezes
+  - Prof. Dr. Celio Trois
 - nome: Chile · Universidad Santo Tomás
   bandeira: 🇨🇱
   integrantes:
   - Josefa Navarro Montero
   - Martina Castro
   - Luckas Zúñiga
+  - Profa. Dra. Flavia Montenegro Donoso
 ---
 
 O projeto reúne uma interface de estudo, componentes para visualização tridimensional e um serviço para processamento de imagens anatômicas. O repositório contém também a API e módulos para trabalhar com materiais de estudo.

@@ -36,6 +36,7 @@ equipes:
   - João Henrique Scherer Wolski
   - Josias Augusto Kautzmann
   - Lucas Aued
+  - Prof. Dr. Celio Trois
 - nome: Chile · Universidad Santo Tomás
   bandeira: 🇨🇱
   integrantes:
@@ -43,6 +44,7 @@ equipes:
   - Noemí Astete
   - Valentina Ávila Reyes
   - Ignacia Moreno
+  - Profa. Dra. Flavia Montenegro Donoso
 ---
 
 O estudante envia um PDF, escolhe um assunto e pode navegar pelas perguntas em qualquer ordem. A sessão registra notas, feedback, respostas-modelo e referências ao material de origem.

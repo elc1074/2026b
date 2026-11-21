@@ -34,11 +34,13 @@ equipes:
   - Gustavo Teixeira
   - João Antônio Bulegon Lobler
   - Leonardo Balk
+  - Profa. Dra. Andrea Schwertner Charão
 - nome: Chile · Universidad Santo Tomás
   bandeira: 🇨🇱
   integrantes:
   - Bernardita Ancao Sandoval
   - Noelia Oteiza Fernández
+  - Profa. Dra. Flavia Montenegro Donoso
 capa: captura.jpg
 videos:
 - titulo: Colaboração COIL
