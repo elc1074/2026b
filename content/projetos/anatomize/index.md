@@ -2,6 +2,8 @@
 title: Anatomize
 resumo: Simulação de provas orais de anatomia a partir de PDFs.
 resumo_es: Simulación de pruebas orales de anatomía a partir de archivos PDF.
+resumo_card: Simulados orais de anatomia a partir de PDFs.
+resumo_card_es: Ensayos orales de anatomía a partir de PDF.
 group_id: 4
 weight: 40
 draft: false

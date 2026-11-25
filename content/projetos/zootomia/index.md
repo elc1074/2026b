@@ -2,6 +2,8 @@
 title: Zootomia
 resumo: Apoio ao estudo prático de osteologia de cães e gatos.
 resumo_es: Apoyo al estudio práctico de la osteología de perros y gatos.
+resumo_card: Osteologia prática de cães e gatos.
+resumo_card_es: Osteología práctica de perros y gatos.
 group_id: 5
 weight: 50
 draft: false

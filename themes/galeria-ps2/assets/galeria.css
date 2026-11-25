@@ -204,13 +204,34 @@ body[data-theme="ivorysidebar"] .intro-inner{overflow:visible}
   .intro-inner>.sidebar-engraving{display:block;position:relative;grid-column:1/-1;bottom:auto;margin-top:16px;margin-bottom:-28px}
 }
 
-/* Preserva as imagens reais completas, inclusive logos e capturas de tela. */
-.project-cover-link .cover-content>img{object-fit:contain;background:var(--surface)}
+/* Moldura comum para capturas e capas ilustradas. */
+body[data-theme="ivorysidebar"] .gallery .project .project-cover-link {
+  aspect-ratio: 3 / 2;
+  box-sizing: border-box;
+  padding: clamp(8px, 1vw, 14px);
+  border: 1px solid var(--line);
+  background: #f1ece2;
+  opacity: 1;
+}
+.gallery .project-cover-link .cover-content > img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
 
-/* Capas reais usam sua proporção original, sem faixas laterais ou cortes. */
-body[data-theme="ivorysidebar"] .project .project-cover-link.project-cover-real{display:block;aspect-ratio:auto}
-.project-cover-real .cover-content{height:auto}
-.project-cover-real .cover-content>img{display:block;width:100%;height:auto;object-fit:initial}
+.gallery-visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip-path: inset(50%);
+  white-space: nowrap;
+}
+.intro-theme {
+  margin-block: .45rem .8rem;
+  font-weight: 600;
+}
 
 /* Alturas livres: cada card entra na coluna mais curta. Sem JS, mantém as colunas originais. */
 body[data-theme="ivorysidebar"] .project-grid{--masonry-columns:var(--columns);--masonry-gap:40px}

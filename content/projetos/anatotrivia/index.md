@@ -2,6 +2,8 @@
 title: AnatoTrivia
 resumo: Apoio ao estudo de anatomia de animais de companhia.
 resumo_es: Apoyo para el estudio de la anatomía de animales de compañía.
+resumo_card: Estudo da anatomia de animais de companhia.
+resumo_card_es: Estudio de anatomía de animales de compañía.
 group_id: 9
 weight: 90
 draft: false

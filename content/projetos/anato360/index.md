@@ -2,6 +2,8 @@
 title: Anato360
 resumo: Estudo de anatomia veterinária com visualização interativa de estruturas.
 resumo_es: Estudio de anatomía veterinaria con visualización interactiva de estructuras.
+resumo_card: Exploração interativa de estruturas anatômicas.
+resumo_card_es: Exploración interactiva de estructuras anatómicas.
 group_id: 8
 weight: 80
 draft: false

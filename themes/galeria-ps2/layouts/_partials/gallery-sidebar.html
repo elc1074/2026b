@@ -7,6 +7,7 @@
         {{ with $home.Params.semestre }}<span class="intro-edition-year" aria-label="Semestre {{ . }}">{{ . }}</span>{{ end }}
       </div>
       {{ if .IsHome }}<h1>{{ $home.Title }}{{ with $home.Params.title_es }}<span class="bilingual-heading" lang="es-CL">{{ . }}</span>{{ end }}</h1>{{ else }}<p class="intro-title">{{ $home.Title }}</p>{{ end }}
+      {{ if .IsHome }}{{ with $home.Params.chamada }}<p class="intro-theme">{{ partial "bilingual-label.html" (dict "pt" . "es" $home.Params.chamada_es) }}</p>{{ end }}{{ end }}
       {{ partial "bilingual-block.html" (dict "pt" $home.Params.descricao "es" $home.Params.descricao_es "class" "intro-description") }}
     </div>
     {{ with $home.Params.apresentacoes }}

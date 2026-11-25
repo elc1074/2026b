@@ -2,6 +2,8 @@
 title: Trivianatomica
 resumo: Trilha de estudo de anatomia veterinária com lições e flashcards.
 resumo_es: Recorrido de estudio de anatomía veterinaria con lecciones y tarjetas de repaso.
+resumo_card: Anatomia veterinária com lições e flashcards.
+resumo_card_es: Anatomía veterinaria con lecciones y tarjetas de repaso.
 group_id: 7
 weight: 70
 draft: false

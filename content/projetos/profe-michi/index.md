@@ -2,6 +2,8 @@
 title: Profe Michi
 resumo: Simulação de avaliações a partir de materiais didáticos de anatomia de animais de companhia.
 resumo_es: Simulación de evaluaciones a partir de material didáctico sobre anatomía de animales de compañía.
+resumo_card: Simulados de anatomia de animais de companhia.
+resumo_card_es: Ensayos de anatomía de animales de compañía.
 group_id: 2
 weight: 20
 draft: false

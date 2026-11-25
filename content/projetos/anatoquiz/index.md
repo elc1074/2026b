@@ -2,6 +2,8 @@
 title: AnatoQuiz
 resumo: Criação e resolução de quizzes visuais de Anatomia Veterinária.
 resumo_es: Creación y resolución de cuestionarios visuales de anatomía veterinaria.
+resumo_card: Criação e resolução de quizzes visuais.
+resumo_card_es: Creación y resolución de cuestionarios visuales.
 group_id: 6
 weight: 60
 draft: false

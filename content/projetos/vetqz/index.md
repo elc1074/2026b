@@ -2,6 +2,8 @@
 title: VetQZ
 resumo: Trivia de anatomia veterinária com geração de perguntas e avaliação oral por IA.
 resumo_es: Trivia de anatomía veterinaria con generación de preguntas y evaluación oral mediante IA.
+resumo_card: Trivia de anatomia com avaliação oral por IA.
+resumo_card_es: Trivia de anatomía con evaluación oral mediante IA.
 group_id: 3
 weight: 30
 draft: false

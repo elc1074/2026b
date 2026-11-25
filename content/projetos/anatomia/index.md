@@ -2,6 +2,8 @@
 title: AnatomIA
 resumo: Treino de respostas de Anatomia Veterinária a partir do material do estudante.
 resumo_es: Práctica de respuestas de anatomía veterinaria a partir del material del estudiante.
+resumo_card: Prática de anatomia com material próprio.
+resumo_card_es: Práctica de anatomía con material propio.
 group_id: 1
 weight: 10
 draft: false
